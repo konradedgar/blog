@@ -1,0 +1,15 @@
+---
+title: Japanese Airlines and Efficient Code Collaboration
+author: Konrad Zdeb
+date: '2019-09-26'
+slug: japanese-airlines-and-efficient-code-collaboration
+categories:
+  - business
+  - BI
+tags:
+  - practice
+  - team
+  - collaboration
+---
+
+The focus of the following article is on 
