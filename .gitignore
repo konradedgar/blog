@@ -5,3 +5,6 @@ sessionInfoLog
 .Rhistory
 .Rproj.user/
 .Rproj.user
+
+# Local Netlify folder
+.netlify
