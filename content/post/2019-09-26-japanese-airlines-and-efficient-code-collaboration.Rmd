@@ -12,4 +12,6 @@ tags:
   - collaboration
 ---
 
-The focus of the following article is on 
+
+
+The focus of this article is on 
